@@ -22,6 +22,9 @@
             <li>
                 <a href="about.php">About</a>
             </li>
+            <li>
+                <a href="love.html">Love</a>
+            </li>
         </ul>
     </div>
     
@@ -32,6 +35,7 @@
              
              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                  <h1 class="text-center text-success">INDEX PAGE</h1>
+                 <h2 class="text-center text-success">Caleb Page</h2>
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta animi vitae architecto beatae, unde reprehenderit
                     impedit, voluptatibus esse ratione at enim explicabo temporibus inventore corporis veniam sed harum fugit
